@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jayshiv7171@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15QXP0Wmq8r2NMfbHsNGAVt9IAIVu3NGU/view?usp=sharing](https://drive.google.com/file/d/15QXP0Wmq8r2NMfbHsNGAVt9IAIVu3NGU/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Xie21xQReNggmeGpnYyx5rGv1dRM1KRy?usp=sharing](https://drive.google.com/drive/folders/1Xie21xQReNggmeGpnYyx5rGv1dRM1KRy?usp=sharing)
 
 - ⚡ Fun fact **Be Happy.**
 
