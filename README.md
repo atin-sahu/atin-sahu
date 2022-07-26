@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms, MERN Stack at Masai School.**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, MongoDB, Data Structure, Algorithms**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, MongoDB, Data Structure, Algorithms,React, Chakra UI**
 
 - 📫 How to reach me **jayshiv7171@gmail.com**
 
