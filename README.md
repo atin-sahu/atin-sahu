@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atin Sahu</h1>
-<h3 align="center">Analytical and Detail oriented Full-Stack Web Developer From Lucknow, Uttar Pradesh, India</h3>
+<h3 align="center">Highly skilled and versatile Frontend Developer with 1+ years of experience from Uttar Pradesh, Lucknow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atin-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="atin-sahu" /> </p>
 
