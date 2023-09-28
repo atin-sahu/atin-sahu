@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atin-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="atin-sahu" /> </p>
 
-- 🌱 I’m currently learning **Data Structure & Algorithms, MERN Stack at Masai School.**
+- 🌱 I’m currently working at value creative in Amritsar, Punjab
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, MongoDB, Data Structure, Algorithms, React, Chakra UI**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, Next, React.js, React Native, Data Structure, Algorithms .**
 
 - 📫 How to reach me **jayshiv7171@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Xie21xQReNggmeGpnYyx5rGv1dRM1KRy?usp=sharing](https://drive.google.com/drive/folders/1Xie21xQReNggmeGpnYyx5rGv1dRM1KRy?usp=sharing)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **Be Happy.**
 
